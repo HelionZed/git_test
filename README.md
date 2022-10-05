@@ -1,3 +1,3 @@
-# git_test
-The Odin Project -Demo Repo
+# git_test README
+The Odin Project -Demo Repo<\n>
 Hello Odin!
